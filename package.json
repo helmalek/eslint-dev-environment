@@ -1,0 +1,28 @@
+{
+	"name": "week10-2",
+	"version": "1.0.0",
+	"description": "Code to be used to start the Quiz 10 exercise.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/helmalek/eslint-dev-environment.git"
+	},
+	"bugs": {
+		"url": "https://github.com/helmalek/eslint-dev-environment/issues"
+	},
+	"homepage": "https://github.com/helmalek/eslint-dev-environment#readme",
+	"devDependencies": {
+		"eslint": "^7.13.0",
+		"eslint-config-prettier": "^6.15.0",
+		"prettier": "^2.1.2"
+	},
+	"dependencies": {
+		"editorconfig": "^0.15.3"
+	}
+}
